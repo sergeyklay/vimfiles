@@ -1,0 +1,60 @@
+[submodule "vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "vim-figitive"]
+	path = bundle/vim-figitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim-ruby"]
+	path = bundle/vim-ruby
+	url = https://github.com/vim-ruby/vim-ruby
+[submodule "vim-haml"]
+	path = bundle/vim-haml
+	url = https://github.com/tpope/vim-haml
+[submodule "vim-rvm"]
+	path = bundle/vim-rvm
+	url = https://github.com/tpope/vim-rvm
+[submodule "vim-endwise"]
+	path = bundle/vim-endwise
+	url = https://github.com/tpope/vim-endwise
+[submodule "vim-template"]
+	path = bundle/vim-template
+	url = https://github.com/thinca/vim-template
+[submodule "vim-ruby-refactoring"]
+	path = bundle/vim-ruby-refactoring
+	url = https://github.com/ecomba/vim-ruby-refactoring
+[submodule "vim-json"]
+	path = bundle/vim-json
+	url = https://github.com/leshill/vim-json
+[submodule "vim-markdown"]
+	path = bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "vim-less"]
+	path = bundle/vim-less
+	url = https://github.com/groenewege/vim-less
+[submodule "vim-jquery"]
+	path = bundle/vim-jquery
+	url = https://github.com/itspriddle/vim-jquery
+[submodule "vim-php"]
+	path = bundle/vim-php
+	url = https://github.com/StanAngeloff/php.vim
+[submodule "vim-css3"]
+	path = bundle/vim-css3
+	url = https://github.com/hail2u/vim-css3-syntax
+[submodule "vim-html5"]
+	path = bundle/vim-html5
+	url = https://github.com/othree/html5-syntax.vim
+[submodule "vim-javascript"]
+	path = bundle/vim-javascript
+	url = https://github.com/jelera/vim-javascript-syntax
+[submodule "vim-nginx"]
+	path = bundle/vim-nginx
+	url = https://github.com/evanmiller/nginx-vim-syntax
+[submodule "vim-systemd"]
+	path = bundle/vim-systemd
+	url = https://github.com/Matt-Deacalion/vim-systemd-syntax
+[submodule "nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "molokay"]
+	path = bundle/molokai
+	url = https://github.com/tomasr/molokai
