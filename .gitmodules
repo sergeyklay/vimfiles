@@ -58,3 +58,6 @@
 [submodule "bundle/vim-rvm"]
   path = bundle/vim-rvm
   url = git://github.com/tpope/vim-rvm
+[submodule "vim-rust"]
+  path = bundle/vim-rust
+  url = https://github.com/wting/rust.vim.git
