@@ -10,7 +10,7 @@ otherwise, only with less features.
 First you need to get initial config:
 
 ```sh
-git clone https://github.com/sergeyklay/vimfiles ~/.vim
+git clone git@github.com:sergeyklay/vimfiles.git ~/.vim
 cd ~/.vim
 git submodule init
 git submodule update
