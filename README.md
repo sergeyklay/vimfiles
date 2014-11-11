@@ -27,4 +27,4 @@ that I have a rather loose definition of "currently".
 ## License
 
 Licensed under the MIT License.
-&copy; [Sergey Yakovlev](https://github.com/sergeyklay)
+&copy; [Serghei Iakovlev](https://github.com/sergeyklay)
