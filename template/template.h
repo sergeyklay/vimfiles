@@ -4,4 +4,4 @@
 
 <+CURSOR+>
 
-#endif
+#endif // <+FILE_NAME+>_H_INCLUDED
