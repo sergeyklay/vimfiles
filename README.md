@@ -18,6 +18,18 @@ git submodule update
 
 And wait for load any required plugins.
 
+## How to updating modules
+
+For git 1.6.1 or above you can use something similar to
+
+```sh
+cd ~/.vim
+git submodule foreach git pull
+```
+
+See
+[git-submodule(1)](http://www.kernel.org/pub/software/scm/git/docs/v1.6.1.3/git-submodule.html) for details.
+
 ## WIP
 
 The `wip` directory contains stuff that I'm currently working on. These are
