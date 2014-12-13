@@ -46,9 +46,6 @@
 [submodule "bundle/vim-json"]
   path = bundle/vim-json
   url = git://github.com/leshill/vim-json
-[submodule "bundle/ruby-refactoring"]
-  path = bundle/ruby-refactoring
-  url = git://github.com/ecomba/vim-ruby-refactoring
 [submodule "bundle/vim-endwise"]
   path = bundle/vim-endwise
   url = git://github.com/tpope/vim-endwise
