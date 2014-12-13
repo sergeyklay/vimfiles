@@ -4,9 +4,6 @@
 [submodule "bundle/vim-html5"]
   path = bundle/vim-html5
   url = git://github.com/othree/html5-syntax.vim
-[submodule "bundle/vim-javascript"]
-  path = bundle/vim-javascript
-  url = git://github.cim/jelera/vim-javascript-syntax
 [submodule "bundle/vim-markdown"]
   path = bundle/vim-markdown
   url = git://github.com/tpope/vim-markdown
@@ -67,3 +64,6 @@
 [submodule "bundle/vim-css3-syntax"]
   path = bundle/vim-css3-syntax
   url = git@github.com:hail2u/vim-css3-syntax.git
+[submodule "bundle/vim-javascript-syntax"]
+  path = bundle/vim-javascript-syntax
+  url = git@github.com:jelera/vim-javascript-syntax.git
