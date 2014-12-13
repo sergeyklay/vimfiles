@@ -1,6 +1,6 @@
 [submodule "bundle/vim-figitive"]
   path = bundle/vim-figitive
-  url = git://github.com/tpope/vim-figitive
+  url = git://github.com/tpope/vim-figitive.git
 [submodule "bundle/vim-html5"]
   path = bundle/vim-html5
   url = git://github.com/othree/html5-syntax.vim
