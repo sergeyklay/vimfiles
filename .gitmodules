@@ -64,3 +64,6 @@
 [submodule "vim-toml"]
   path = bundle/vim-toml
   url = https://github.com/cespare/vim-toml
+[submodule "bundle/vim-css3-syntax"]
+  path = bundle/vim-css3-syntax
+  url = git@github.com:hail2u/vim-css3-syntax.git
