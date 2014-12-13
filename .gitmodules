@@ -1,6 +1,3 @@
-[submodule "bundle/vim-figitive"]
-  path = bundle/vim-figitive
-  url = git://github.com/tpope/vim-figitive.git
 [submodule "bundle/vim-html5"]
   path = bundle/vim-html5
   url = git://github.com/othree/html5-syntax.vim
@@ -22,9 +19,6 @@
 [submodule "bundle/molokai"]
   path = bundle/molokai
   url = git://github.com/tomasr/molokai
-[submodule "bundle/fugitive"]
-  path = bundle/fugitive
-  url = git://github.com/tpope/vim-fugitive
 [submodule "bundle/vim-template"]
   path = bundle/vim-template
   url = git://github.com/thinca/vim-template
@@ -67,3 +61,6 @@
 [submodule "bundle/vim-ruby-refactoring"]
   path = bundle/vim-ruby-refactoring
   url = git@github.com:killphi/vim-ruby-refactoring.git
+[submodule "bundle/vim-fugitive"]
+  path = bundle/vim-fugitive
+  url = git@github.com:tpope/vim-fugitive.git
