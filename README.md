@@ -18,7 +18,7 @@ git submodule update
 
 And wait for load any required plugins.
 
-## How to updating modules
+## Easy way pull latest of all submodules
 
 For git 1.6.1 or above you can use something similar to
 
