@@ -5,6 +5,14 @@ let g:rubycomplete_classes_in_global  = 1
 let g:rubycomplete_rails              = 1
 let g:rails_syntax                    = 1
 
+" Go
+let g:go_fmt_autosave                = 0
+let g:go_highlight_functions         = 1
+let g:go_highlight_methods           = 1
+let g:go_highlight_structs           = 1
+let g:go_highlight_operators         = 1
+let g:go_highlight_build_constraints = 1
+
 " Airline
 let g:airline_theme                         = 'molokai'
 let g:airline#extensions#fugitive#enabled   = 1
