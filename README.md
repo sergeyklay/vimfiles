@@ -24,7 +24,7 @@ For git 1.6.1 or above you can use something similar to
 
 ```sh
 cd ~/.vim
-git submodule foreach git pull
+git submodule update --remote --merge
 ```
 
 See
