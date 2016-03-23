@@ -67,3 +67,6 @@
 [submodule "bundle/vim-go"]
   path = bundle/vim-go
   url = git@github.com:fatih/vim-go.git
+[submodule "bundle/vim-airline-themes"]
+  path = bundle/vim-airline-themes
+  url = git@github.com:vim-airline/vim-airline-themes.git
