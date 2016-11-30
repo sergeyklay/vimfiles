@@ -15,7 +15,7 @@ hi def link     zepTodo              Todo
 
 syn keyword     zepDirective         namespace extends implements return
 syn keyword     zepDeclaration       var let new const
-syn keyword     zepDeclType          abstract class interface
+syn keyword     zepDeclType          abstract class interface use as
 syn keyword     zepDeclFun           function
 syn keyword     zepDeclMore          public private protected static final
 syn keyword     zepExceptionOperator throw try catch
