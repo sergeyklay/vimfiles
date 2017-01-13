@@ -1,72 +1,95 @@
 [submodule "bundle/vim-html5"]
   path = bundle/vim-html5
-  url = git://github.com/othree/html5-syntax.vim
+  url  = git://github.com/othree/html5-syntax.vim
+
 [submodule "bundle/vim-markdown"]
   path = bundle/vim-markdown
-  url = git://github.com/tpope/vim-markdown
+  url  = git://github.com/tpope/vim-markdown
+
 [submodule "bundle/vim-nginx"]
   path = bundle/vim-nginx
-  url = git://github.com/evanmiller/nginx-vim-syntax
+  url  = git://github.com/evanmiller/nginx-vim-syntax
+
 [submodule "bundle/vim-systemd"]
   path = bundle/vim-systemd
-  url = git://github.com/Matt-Deacalion/vim-systemd-syntax
+  url  = git://github.com/Matt-Deacalion/vim-systemd-syntax
+
 [submodule "bundle/nerdtree"]
   path = bundle/nerdtree
-  url = git://github.com/scrooloose/nerdtree
+  url  = git://github.com/scrooloose/nerdtree
+
 [submodule "bundle/vim-airline"]
   path = bundle/vim-airline
-  url = git://github.com/bling/vim-airline
+  url  = git://github.com/bling/vim-airline
+
 [submodule "bundle/molokai"]
   path = bundle/molokai
-  url = git://github.com/tomasr/molokai
+  url  = git://github.com/tomasr/molokai
+
 [submodule "bundle/vim-template"]
   path = bundle/vim-template
-  url = git://github.com/thinca/vim-template
+  url  = git://github.com/thinca/vim-template
+
 [submodule "bundle/vim-php"]
   path = bundle/vim-php
-  url = git://github.com/StanAngeloff/php.vim
+  url  = git://github.com/StanAngeloff/php.vim
+
 [submodule "bundle/vim-ruby"]
   path = bundle/vim-ruby
-  url = git://github.com/vim-ruby/vim-ruby
+  url  = git://github.com/vim-ruby/vim-ruby
+
 [submodule "bundle/vim-haml"]
   path = bundle/vim-haml
-  url = git://github.com/tpope/vim-haml
+  url  = git://github.com/tpope/vim-haml
+
 [submodule "bundle/vim-jquery"]
   path = bundle/vim-jquery
-  url = git://github.com/itspriddle/vim-jquery
+  url  = git://github.com/itspriddle/vim-jquery
+
 [submodule "bundle/vim-less"]
   path = bundle/vim-less
-  url = git://github.com/groenewege/vim-less
+  url  = git://github.com/groenewege/vim-less
+
 [submodule "bundle/vim-json"]
   path = bundle/vim-json
-  url = git://github.com/leshill/vim-json
+  url  = git://github.com/leshill/vim-json
+
 [submodule "bundle/vim-endwise"]
   path = bundle/vim-endwise
-  url = git://github.com/tpope/vim-endwise
+  url  = git://github.com/tpope/vim-endwise
+
 [submodule "bundle/vim-rvm"]
   path = bundle/vim-rvm
-  url = git://github.com/tpope/vim-rvm
+  url  = git://github.com/tpope/vim-rvm
+
 [submodule "vim-rust"]
   path = bundle/vim-rust
-  url = git://github.com/wting/rust.vim.git
+  url  = git://github.com/wting/rust.vim.git
+
 [submodule "vim-toml"]
   path = bundle/vim-toml
-  url = git://github.com/cespare/vim-toml
+  url  = git://github.com/cespare/vim-toml
+
 [submodule "bundle/vim-css3-syntax"]
   path = bundle/vim-css3-syntax
-  url = git://github.com:hail2u/vim-css3-syntax.git
+  url  = git://github.com/hail2u/vim-css3-syntax.git
+
 [submodule "bundle/vim-javascript-syntax"]
   path = bundle/vim-javascript-syntax
-  url = git://github.com:jelera/vim-javascript-syntax.git
+  url  = git://github.com/jelera/vim-javascript-syntax.git
+
 [submodule "bundle/vim-ruby-refactoring"]
   path = bundle/vim-ruby-refactoring
-  url = git://github.com:killphi/vim-ruby-refactoring.git
+  url  = git://github.com/killphi/vim-ruby-refactoring.git
+
 [submodule "bundle/vim-fugitive"]
   path = bundle/vim-fugitive
-  url = git://github.com:tpope/vim-fugitive.git
+  url  = git://github.com/tpope/vim-fugitive.git
+
 [submodule "bundle/vim-go"]
   path = bundle/vim-go
-  url = git://github.com:fatih/vim-go.git
+  url  = git://github.com/fatih/vim-go.git
+
 [submodule "bundle/vim-airline-themes"]
   path = bundle/vim-airline-themes
-  url = git://github.com:vim-airline/vim-airline-themes.git
+  url  = git://github.com/vim-airline/vim-airline-themes.git
