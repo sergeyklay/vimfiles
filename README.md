@@ -1,6 +1,8 @@
 vimfiles
 ========
 
+[![Build Status](https://travis-ci.org/sergeyklay/vimfiles.svg?branch=master)][:travis:]
+
 This project is my vim setup. It's intended to work on a Linux box with a vim
 compiled with `+ruby` and `+python`, though it should load just fine even
 otherwise, only with less features.
@@ -28,7 +30,7 @@ git submodule update --remote --merge
 ```
 
 See
-[git-submodule(1)](http://www.kernel.org/pub/software/scm/git/docs/v1.6.1.3/git-submodule.html) for details.
+[git-submodule(1)][:mdl:] for details.
 
 ## WIP
 
@@ -38,5 +40,8 @@ that I have a rather loose definition of "currently".
 
 ## License
 
-Licensed under the MIT License.
-&copy; [Serghei Iakovlev](https://github.com/sergeyklay)
+Licensed under the MIT License. &copy; [Serghei Iakovlev][:my:]
+
+[:travis:]: https://traviis-ci.org/sergeyklay/vimfiles
+[:mdl:]: http://www.kernel.org/pub/software/scm/git/docs/v1.6.1.3/git-submodule.html
+[:my:]: https://github.com/sergeyklay
