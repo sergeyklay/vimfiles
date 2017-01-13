@@ -42,6 +42,6 @@ that I have a rather loose definition of "currently".
 
 Licensed under the MIT License. &copy; [Serghei Iakovlev][:my:]
 
-[:travis:]: https://traviis-ci.org/sergeyklay/vimfiles
+[:travis:]: https://travis-ci.org/sergeyklay/vimfiles
 [:mdl:]: http://www.kernel.org/pub/software/scm/git/docs/v1.6.1.3/git-submodule.html
 [:my:]: https://github.com/sergeyklay
