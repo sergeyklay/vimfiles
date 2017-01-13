@@ -48,25 +48,25 @@
   url = git://github.com/tpope/vim-rvm
 [submodule "vim-rust"]
   path = bundle/vim-rust
-  url = https://github.com/wting/rust.vim.git
+  url = git://github.com/wting/rust.vim.git
 [submodule "vim-toml"]
   path = bundle/vim-toml
-  url = https://github.com/cespare/vim-toml
+  url = git://github.com/cespare/vim-toml
 [submodule "bundle/vim-css3-syntax"]
   path = bundle/vim-css3-syntax
-  url = git@github.com:hail2u/vim-css3-syntax.git
+  url = git://github.com:hail2u/vim-css3-syntax.git
 [submodule "bundle/vim-javascript-syntax"]
   path = bundle/vim-javascript-syntax
-  url = git@github.com:jelera/vim-javascript-syntax.git
+  url = git://github.com:jelera/vim-javascript-syntax.git
 [submodule "bundle/vim-ruby-refactoring"]
   path = bundle/vim-ruby-refactoring
-  url = git@github.com:killphi/vim-ruby-refactoring.git
+  url = git://github.com:killphi/vim-ruby-refactoring.git
 [submodule "bundle/vim-fugitive"]
   path = bundle/vim-fugitive
-  url = git@github.com:tpope/vim-fugitive.git
+  url = git://github.com:tpope/vim-fugitive.git
 [submodule "bundle/vim-go"]
   path = bundle/vim-go
-  url = git@github.com:fatih/vim-go.git
+  url = git://github.com:fatih/vim-go.git
 [submodule "bundle/vim-airline-themes"]
   path = bundle/vim-airline-themes
-  url = git@github.com:vim-airline/vim-airline-themes.git
+  url = git://github.com:vim-airline/vim-airline-themes.git
