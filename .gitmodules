@@ -62,11 +62,11 @@
   path = bundle/vim-rvm
   url  = git://github.com/tpope/vim-rvm
 
-[submodule "vim-rust"]
+[submodule "bundle/vim-rust"]
   path = bundle/vim-rust
   url  = git://github.com/wting/rust.vim.git
 
-[submodule "vim-toml"]
+[submodule "bundle/vim-toml"]
   path = bundle/vim-toml
   url  = git://github.com/cespare/vim-toml
 
