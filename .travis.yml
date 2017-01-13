@@ -1,0 +1,21 @@
+language: generic
+
+sudo: required
+dist: trusty
+
+git:
+    depth: 1
+
+before_script:
+    - ln -s $(pwd) $HOME/.vim
+
+script:
+    - git submodule init
+    - git submodule update
+
+notifications:
+    email:
+        recipients:
+            - serghei@phalconphp.com
+        on_success: change
+        on_failure: always
