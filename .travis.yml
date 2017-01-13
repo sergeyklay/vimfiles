@@ -8,6 +8,8 @@ git:
 
 before_script:
     - ln -s $(pwd) $HOME/.vim
+    - touch $HOME/.ssh/{config,known_hosts}
+    - echo "UserKnownHostsFile $HOME/.ssh/known_hosts" >> $HOME/.ssh/config
 
 script:
     - git submodule init
