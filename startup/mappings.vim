@@ -12,9 +12,6 @@ nnoremap <f2> :e <C-d>
 " F3: Toggle list (display unprintable characters).
 nnoremap <f3> :set list! list?<cr>
 
-" F4: Toggle auto-indenting for code paste
-set pastetoggle=<F4>
-
 " reoldad Vim config
 nnoremap <silent> <leader>V :source ~/.vim/vimrc<cr>:filetype detect<cr>:exe ":echo 'vimrc reloaded'"<cr>
 
