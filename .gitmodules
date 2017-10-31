@@ -6,10 +6,6 @@
   path = bundle/vim-markdown
   url  = git://github.com/tpope/vim-markdown
 
-[submodule "bundle/vim-nginx"]
-  path = bundle/vim-nginx
-  url  = git://github.com/evanmiller/nginx-vim-syntax
-
 [submodule "bundle/vim-systemd"]
   path = bundle/vim-systemd
   url  = git://github.com/Matt-Deacalion/vim-systemd-syntax
@@ -93,3 +89,6 @@
 [submodule "bundle/vim-airline-themes"]
   path = bundle/vim-airline-themes
   url  = git://github.com/vim-airline/vim-airline-themes.git
+[submodule "bundle/nginx.vim"]
+	path = bundle/nginx.vim
+	url = git://github.com/chr4/nginx.vim
