@@ -89,6 +89,11 @@
 [submodule "bundle/vim-airline-themes"]
   path = bundle/vim-airline-themes
   url  = git://github.com/vim-airline/vim-airline-themes.git
+
 [submodule "bundle/nginx.vim"]
-	path = bundle/nginx.vim
-	url = git://github.com/chr4/nginx.vim
+  path = bundle/nginx.vim
+  url = git://github.com/chr4/nginx.vim
+
+[submodule "bundle/vim-ps1"]
+  path = bundle/vim-ps1
+  url = git://github.com/PProvost/vim-ps1.git
