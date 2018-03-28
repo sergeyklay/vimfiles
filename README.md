@@ -3,9 +3,9 @@ vimfiles
 
 [![Build Status](https://travis-ci.org/sergeyklay/vimfiles.svg?branch=master)][:travis:]
 
-This project is my vim setup. It's intended to work on a Linux box with a vim
-compiled with `+ruby` and `+python`, though it should load just fine even
-otherwise, only with less features.
+This project is my vim setup. It's intended to work on a Linux box or on a
+macOS with a vim compiled with `+ruby` and `+python`, though it should load
+just fine even otherwise, only with less features.
 
 ## How to try it out
 
