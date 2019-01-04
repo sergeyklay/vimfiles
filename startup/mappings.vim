@@ -29,4 +29,7 @@ if executable('vpaste')
   vnoremap <leader>vp <esc>:exec "'<,'>w !vpaste ft=".&ft<cr>
 endif
 
+" to enable space to trigger the fold in normal mode
+nnoremap <space> za
+
 " vim:ft=vim:ts=8:sw=2:sts=2:tw=78:fenc=utf-8:et
