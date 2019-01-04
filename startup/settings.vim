@@ -1,5 +1,5 @@
 " General
-set modelines=1
+set modelines=5
 set clipboard=unnamedplus
 set isfname-==
 set shortmess=aTOI
