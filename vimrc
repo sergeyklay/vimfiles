@@ -12,6 +12,7 @@ runtime startup/console.vim
 runtime startup/plugins.vim
 runtime startup/autocommands.vim
 runtime startup/mappings.vim
+runtime startup/project.vim
 
 " Add "wip" directory to runtimepath
 set runtimepath+=~/.vim/wip
