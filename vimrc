@@ -1,7 +1,7 @@
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "
 " Vim main config
-" by Sergey Yakovlev (me@klay.me)
+" by Sergey Yakovlev (sadhooklay@gmail.com)
 " https://github.com/sergeyklay/
 "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
