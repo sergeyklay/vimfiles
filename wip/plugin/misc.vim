@@ -9,4 +9,4 @@ function! AppendModeline()
 endfunction
 nnoremap <silent> <Leader>ml :call AppendModeline()<cr>
 
-" vim:ft=vim:ts=8:sw=2:sts=2:tw=78:fenc=:et
+" vim:ft=vim:ts=8:sw=2:sts=2:tw=78:fenc=utf-8:et
