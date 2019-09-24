@@ -5,26 +5,25 @@ if has("autocmd")
 
     " when editing a file, always jump to the last known cursor position
     " don't do it when the position is invalid or when inside an event handler
-    autocmd BufReadPost *
+    au BufReadPost *
       \ if line("'\"") > 1 && line("'\"") <= line("$") |
       \   exe "normal! g`\"" |
       \ endif
 
     " open a NERDTree automatically
     " when vim starts up if no files were specified
-    autocmd vimenter * if !argc() | NERDTree | endif
+    au vimenter * if !argc() | NERDTree | endif
 
-    autocmd BufEnter *.c    compiler gcc
-    autocmd BufEnter *.re   compiler re2c
-    autocmd BufEnter *.cpp  compiler gcc
-    autocmd BufEnter *.php  compiler php
-    autocmd BufEnter *.html compiler tidy
+    au BufEnter *.c    compiler gcc
+    au BufEnter *.cpp  compiler gcc
+    au BufEnter *.php  compiler php
+    au BufEnter *.html compiler tidy
 
-    autocmd BufEnter httpd*.conf  set filetype=apache
-    autocmd BufEnter *.sql set filetype=mysql
-    autocmd BufEnter *.re set filetype=c
+    au BufEnter httpd*.conf  setf apache
+    au BufEnter *.sql        setf mysql
+    au BufEnter *.re         setf c
 
-    autocmd User plugin-template-loaded call s:template_keywords()
+    au User plugin-template-loaded call s:template_keywords()
 
     " Using templates for new files
     function! s:template_keywords()
