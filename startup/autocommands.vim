@@ -15,12 +15,14 @@ if has("autocmd")
     autocmd vimenter * if !argc() | NERDTree | endif
 
     autocmd BufEnter *.c    compiler gcc
+    autocmd BufEnter *.re   compiler re2c
     autocmd BufEnter *.cpp  compiler gcc
     autocmd BufEnter *.php  compiler php
     autocmd BufEnter *.html compiler tidy
 
     autocmd BufEnter httpd*.conf  set filetype=apache
     autocmd BufEnter *.sql set filetype=mysql
+    autocmd BufEnter *.re set filetype=c
 
     autocmd User plugin-template-loaded call s:template_keywords()
 
