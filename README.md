@@ -1,7 +1,7 @@
 vimfiles
 ========
 
-[![Build Status](https://travis-ci.org/sergeyklay/vimfiles.svg?branch=master)][:travis:]
+**This project is no longer supported.**
 
 This project is my vim setup. It's intended to work on a Linux box or on a
 macOS with a vim compiled with `+ruby` and `+python`, though it should load
@@ -42,6 +42,5 @@ that I have a rather loose definition of "currently".
 
 Licensed under the MIT License. &copy; [Serghei Iakovlev][:my:]
 
-[:travis:]: https://travis-ci.org/sergeyklay/vimfiles
 [:mdl:]: http://www.kernel.org/pub/software/scm/git/docs/v1.6.1.3/git-submodule.html
 [:my:]: https://github.com/sergeyklay
